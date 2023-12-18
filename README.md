@@ -6,6 +6,7 @@ This repository includes source code and firmware releases for the Original Prus
 
 The currently supported models are:
 - Original Prusa MINI
+- Original Prusa MK3.9
 - Original Prusa MK4
 - Original Prusa XL
 
